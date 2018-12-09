@@ -1,0 +1,17 @@
+[
+    {
+        "to": "/",
+        "name": "Home",
+        "type": "link"
+    },
+    {
+        "to": "/about/",
+        "name": "About",
+        "type": "navLink"
+    },
+    {
+        "to": "/contacts/",
+        "name": "Contacts",
+        "type": "navLink"
+    }
+]
